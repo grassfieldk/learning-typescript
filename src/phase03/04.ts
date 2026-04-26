@@ -7,6 +7,7 @@
 //     - deposit(amount: number): void — balance に amount を加算する
 //     - withdraw(amount: number): void — balance が足りない場合は "Insufficient funds" を出力、足りる場合は減算する
 //     - getBalance(): number — balance を返す
+// ここに追記
 
 // (2) 以下のコードが正しく動作するようクラスを実装せよ
 const account = new BankAccount("Taro");
@@ -20,4 +21,5 @@ console.log(account.getBalance());
 // (3) Printable インターフェースを定義せよ（print(): void を持つ）
 //     BankAccount が Printable を implements するよう変更し
 //     print() は "Account[{owner}]: {balance}" を出力するよう実装せよ
+// → (1) の BankAccount クラスに追記すること
 account.print();

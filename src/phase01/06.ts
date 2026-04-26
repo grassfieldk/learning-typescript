@@ -3,10 +3,13 @@
 // (1) Animal クラスを作成せよ
 //     - コンストラクタで name（文字列）と sound（文字列）を受け取りフィールドに保存すること
 //     - speak() メソッドを持ち、"{name} says {sound}!" を出力すること
+// ここに追記
 
-// (2) Animal を継承した Dog クラスを作成せよ
+// (2) extends を使って Animal を継承した Dog クラスを作成せよ
 //     - コンストラクタで name のみを受け取り、sound は "Woof" 固定とすること
+//     - super() を使って親クラスのコンストラクタを呼び出すこと
 //     - fetch() メソッドを追加し、"{name} fetches the ball!" を出力すること
+// ここに追記
 
 // (3) 以下のコードが正しく動作するよう上のクラスを実装せよ
 const cat = new Animal("Cat", "Meow");
