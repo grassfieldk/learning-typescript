@@ -1,0 +1,4 @@
+Alice 100 true
+7
+Hello, TypeScript!
+84

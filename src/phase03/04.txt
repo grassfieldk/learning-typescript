@@ -1,0 +1,5 @@
+1000
+600
+Insufficient funds
+600
+Account[Taro]: 600

@@ -1,0 +1,7 @@
+10
+a
+undefined
+age 30
+1 true
+5
+3

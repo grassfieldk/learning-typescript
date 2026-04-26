@@ -1,0 +1,6 @@
+[ 2, 4, 6, 8, 10 ]
+[ 2, 4 ]
+15
+[ 'foo', 'bar', 'baz', 'qux' ]
+[ 'qux', 'baz', 'bar', 'foo' ]
+[ 'foo', 'bar', 'baz', 'qux' ]

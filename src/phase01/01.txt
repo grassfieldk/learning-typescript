@@ -1,0 +1,7 @@
+Taro
+26
+27
+boolean
+null
+Hello, Taro! You are 27 years old.
+HELLO WORLD

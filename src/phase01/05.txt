@@ -1,0 +1,9 @@
+Taro
+27
+{ name: 'Taro', age: 27, city: 'Tokyo', address: 'Shibuya' }
+name: Taro
+age: 27
+city: Tokyo
+[ 'name', 'age', 'city' ]
+[ 'Taro', 27, 'Tokyo' ]
+[ [ 'name', 'Taro' ], [ 'age', 27 ], [ 'city', 'Tokyo' ] ]
